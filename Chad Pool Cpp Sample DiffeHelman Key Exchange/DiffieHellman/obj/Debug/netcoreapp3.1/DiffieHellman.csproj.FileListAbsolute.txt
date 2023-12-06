@@ -1,0 +1,13 @@
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.csprojAssemblyReference.cache
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.AssemblyInfoInputs.cache
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.AssemblyInfo.cs
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.csproj.CoreCompileInputs.cache
+C:\Users\chad1\source\repos\DiffieHellman\bin\Debug\netcoreapp3.1\DiffieHellman.exe
+C:\Users\chad1\source\repos\DiffieHellman\bin\Debug\netcoreapp3.1\DiffieHellman.deps.json
+C:\Users\chad1\source\repos\DiffieHellman\bin\Debug\netcoreapp3.1\DiffieHellman.runtimeconfig.json
+C:\Users\chad1\source\repos\DiffieHellman\bin\Debug\netcoreapp3.1\DiffieHellman.runtimeconfig.dev.json
+C:\Users\chad1\source\repos\DiffieHellman\bin\Debug\netcoreapp3.1\DiffieHellman.dll
+C:\Users\chad1\source\repos\DiffieHellman\bin\Debug\netcoreapp3.1\DiffieHellman.pdb
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.dll
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.pdb
+C:\Users\chad1\source\repos\DiffieHellman\obj\Debug\netcoreapp3.1\DiffieHellman.genruntimeconfig.cache
