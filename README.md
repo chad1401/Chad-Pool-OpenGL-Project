@@ -1,4 +1,4 @@
-# Chad-Pool-OpenGL-Project
+# Chad-Pool-Sample-Projects
 An OpenGL Sample Project Demonstrating Normal Free lighting
 
 
