@@ -1,7 +1,6 @@
 # Chad-Pool-Sample-Projects
 An OpenGL Sample Project Demonstrating Normal Free lighting
 
-
 Chad Pool WebGL sample Project
 
 The following is a sample project that demonstrates the use of lighting without the use of an objects normal map.
